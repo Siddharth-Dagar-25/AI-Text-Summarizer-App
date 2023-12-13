@@ -53,7 +53,3 @@ Some snapshots of the project :
 6. **Start the client:**
     ```cd ../client
     npm run dev
-
-
-
- 
