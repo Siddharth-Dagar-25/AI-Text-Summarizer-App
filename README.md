@@ -7,8 +7,10 @@ AI-Text-Summarizer is a cutting-edge full-stack web application designed to tran
 
 ## ScreenShots
 Some snapshots of the project : 
-<img width="1431" alt="Screenshot 2023-12-13 at 8 36 15 AM" src="https://github.com/Siddharth-Dagar-25/AI-Text-Summarizer-App/assets/97306013/0cc6d8f8-b712-4a92-9968-b0a3bc0a8106">
+
 <img width="1428" alt="Screenshot 2023-12-13 at 8 36 04 AM" src="https://github.com/Siddharth-Dagar-25/AI-Text-Summarizer-App/assets/97306013/2e3a2145-eed9-40f4-ac4c-d014f0a6415f">
+
+<img width="1431" alt="Screenshot 2023-12-13 at 8 36 15 AM" src="https://github.com/Siddharth-Dagar-25/AI-Text-Summarizer-App/assets/97306013/0cc6d8f8-b712-4a92-9968-b0a3bc0a8106">
 
 
 ## Features
